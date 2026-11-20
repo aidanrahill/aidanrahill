@@ -1,2 +1,2 @@
 A CS student from Los Angeles, studying at Syracuse University. <br />
-[Learn More](aidanrahill.github.io)
+[Learn More](https://aidanrahill.github.io)
